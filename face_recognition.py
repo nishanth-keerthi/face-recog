@@ -1,4 +1,4 @@
-# Recognise Faces using some classification algorithm - like Logistic, KNN, SVM etc.
+
 
 
 # 1. load the training data (numpy arrays of all the persons)
